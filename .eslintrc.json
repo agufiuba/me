@@ -1,0 +1,26 @@
+{
+    "extends": "/home/agu/.eslintrc.json",
+    "rules": {
+        "no-shadow": [
+            0, "always"
+        ],
+        "import/no-unresolved": [
+            0, "never"
+        ],
+        "import/first": [
+            0, "never"
+        ],
+        "no-multi-assign": [
+            0, "never"
+        ],
+        "global-require": [
+            0, "never"
+        ],
+        "no-param-reassign": [
+            0, "never"
+        ]
+    },
+    "globals": {
+        "window": true
+    }
+}
