@@ -1,9 +1,9 @@
+$theme-colors: (
+  // Bulma admin
+  // warning: #F9E384
 
-$body-bg: #6f5499;
-$body-color: #111;
-
-$colors: (
-  "yellow": #6f5499
-);
+  // Mercadolibre
+  warning: #FEEF73
+) !default;
 
 @import "~bootstrap/scss/bootstrap";
