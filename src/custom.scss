@@ -3,7 +3,20 @@ $theme-colors: (
   // warning: #F9E384
 
   // Mercadolibre
-  warning: #FEEF73
+  warning: #FEEF73,
+
+  // Paletton
+  danger: #D84752,
+
+  // Paletton
+  success: #36A457,
+
+  // Paletton
+  primary: #386091
 ) !default;
 
 @import "~bootstrap/scss/bootstrap";
+
+.btn-outline-warning {
+	color: black;
+}
