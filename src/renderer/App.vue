@@ -1,19 +1,22 @@
 <template>
   <div id="app">
     <navbar></navbar>
-    <passwords></passwords>
+    <!-- <passwords></passwords> -->
+    <money></money>
   </div>
 </template>
 
 <script>
   import Navbar from './components/Navbar'
   import Passwords from './components/Passwords'
+  import Money from './components/Money'
 
   export default {
     name: 'my-project',
     components: {
       Navbar,
-      Passwords
+      Passwords,
+      Money
     }
   };
 </script>

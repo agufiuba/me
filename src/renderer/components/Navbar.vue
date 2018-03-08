@@ -4,8 +4,8 @@
     <a class="navbar-brand" href="#">Me!</a>
     <div class="collapse navbar-collapse">
       <div class="navbar-nav">
-        <a class="nav-item nav-link active" href="#">Passwords</a>
-        <a class="nav-item nav-link disabled" href="#">Money</a>
+        <a class="nav-item nav-link" href="#">Passwords</a>
+        <a class="nav-item nav-link active" href="#">Money</a>
         <a class="nav-item nav-link disabled" href="#">Sports</a>
         <a class="nav-item nav-link disabled" href="#">Fitness</a>
         <a class="nav-item nav-link disabled" href="#">Notes</a>
